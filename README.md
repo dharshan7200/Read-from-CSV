@@ -20,8 +20,8 @@ print the toal no.of rows and columns with argument 0 for row and argument 1 for
 ## PROGRAM:
 ```
 #Program to read contents from a CSV file.
-#Developed by: NAVEEN KUMAR.B
-#Reg No: 212222230091
+#Developed by: DHARSHAN D 
+#Reg No: 23001663
 import pandas as pd
 df=pd.read_csv("nba.csv")
 print(df.head(10))
